@@ -1,2 +1,2 @@
 # nftprofile...............
-# soon.
+# soon..
